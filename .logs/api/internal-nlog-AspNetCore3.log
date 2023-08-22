@@ -1,0 +1,184 @@
+2023-08-22 14:17:17.6135 Info Message Template Auto Format enabled
+2023-08-22 14:17:17.6251 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-22 14:17:17.6688 Info Adding target FileTarget(Name=allfile)
+2023-08-22 14:17:17.6755 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-22 14:17:17.6793 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2023-08-22 14:17:17.7064 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=81, FilePath=/app/NLog.config
+2023-08-22 14:20:43.5665 Info AppDomain Shutting down. Logger closing...
+2023-08-22 14:20:43.5807 Info Logger has been shut down.
+2023-08-22 14:21:04.3340 Info Message Template Auto Format enabled
+2023-08-22 14:21:04.3474 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-22 14:21:04.3887 Info Adding target FileTarget(Name=allfile)
+2023-08-22 14:21:04.3967 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-22 14:21:04.4019 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2023-08-22 14:21:04.4331 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=81, FilePath=/app/NLog.config
+2023-08-22 14:27:42.6825 Info AppDomain Shutting down. Logger closing...
+2023-08-22 14:27:42.6994 Info Logger has been shut down.
+2023-08-22 14:28:03.8725 Info Message Template Auto Format enabled
+2023-08-22 14:28:03.8832 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-22 14:28:03.9257 Info Adding target FileTarget(Name=allfile)
+2023-08-22 14:28:03.9323 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-22 14:28:03.9369 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2023-08-22 14:28:03.9606 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=81, FilePath=/app/NLog.config
+2023-08-22 14:28:59.3667 Info AppDomain Shutting down. Logger closing...
+2023-08-22 14:28:59.3803 Info Logger has been shut down.
+2023-08-22 14:33:01.6965 Info Message Template Auto Format enabled
+2023-08-22 14:33:01.7102 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-22 14:33:01.7495 Info Adding target FileTarget(Name=allfile)
+2023-08-22 14:33:01.7566 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-22 14:33:01.7615 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2023-08-22 14:33:01.7896 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=81, FilePath=/app/NLog.config
+2023-08-22 14:33:22.4210 Info AppDomain Shutting down. Logger closing...
+2023-08-22 14:33:22.4370 Info Logger has been shut down.
+2023-08-22 14:33:36.8611 Info Message Template Auto Format enabled
+2023-08-22 14:33:36.8713 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-22 14:33:36.9125 Info Adding target FileTarget(Name=allfile)
+2023-08-22 14:33:36.9176 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-22 14:33:36.9213 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2023-08-22 14:33:36.9451 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=81, FilePath=/app/NLog.config
+2023-08-22 14:35:23.6804 Info AppDomain Shutting down. Logger closing...
+2023-08-22 14:35:23.6980 Info Logger has been shut down.
+2023-08-22 14:35:51.3203 Info Message Template Auto Format enabled
+2023-08-22 14:35:51.3327 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-22 14:35:51.3808 Info Adding target FileTarget(Name=allfile)
+2023-08-22 14:35:51.3869 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-22 14:35:51.3905 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2023-08-22 14:35:51.4172 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=81, FilePath=/app/NLog.config
+2023-08-22 14:39:45.4304 Info AppDomain Shutting down. Logger closing...
+2023-08-22 14:39:45.4478 Info Logger has been shut down.
+2023-08-22 14:41:07.2231 Info Message Template Auto Format enabled
+2023-08-22 14:41:07.2375 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-22 14:41:07.2812 Info Adding target FileTarget(Name=allfile)
+2023-08-22 14:41:07.2854 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-22 14:41:07.2882 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2023-08-22 14:41:07.3167 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=81, FilePath=/app/NLog.config
+2023-08-22 14:45:44.8981 Info AppDomain Shutting down. Logger closing...
+2023-08-22 14:45:44.9126 Info Logger has been shut down.
+2023-08-22 15:42:01.3653 Info Message Template Auto Format enabled
+2023-08-22 15:42:01.3834 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-22 15:42:01.4314 Info Adding target FileTarget(Name=allfile)
+2023-08-22 15:42:01.4396 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-22 15:42:01.4437 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2023-08-22 15:42:01.4778 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=81, FilePath=/app/NLog.config
+2023-08-22 15:46:49.2910 Info AppDomain Shutting down. Logger closing...
+2023-08-22 15:46:49.3415 Info Logger has been shut down.
+2023-08-22 17:32:31.0194 Info Message Template Auto Format enabled
+2023-08-22 17:32:31.0307 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-22 17:32:31.0764 Info Adding target FileTarget(Name=allfile)
+2023-08-22 17:32:31.0830 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-22 17:32:31.0876 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2023-08-22 17:32:31.1203 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=81, FilePath=/app/NLog.config
+2023-08-22 17:35:58.1915 Info AppDomain Shutting down. Logger closing...
+2023-08-22 17:35:58.2056 Info Logger has been shut down.
+2023-08-22 17:36:40.3259 Info Message Template Auto Format enabled
+2023-08-22 17:36:40.3473 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-22 17:36:40.3874 Info Adding target FileTarget(Name=allfile)
+2023-08-22 17:36:40.3976 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-22 17:36:40.4015 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2023-08-22 17:36:40.4271 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=81, FilePath=/app/NLog.config
+2023-08-22 17:37:24.3691 Info AppDomain Shutting down. Logger closing...
+2023-08-22 17:37:24.3854 Info Logger has been shut down.
+2023-08-22 17:38:12.4974 Info Message Template Auto Format enabled
+2023-08-22 17:38:12.5086 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-22 17:38:12.5511 Info Adding target FileTarget(Name=allfile)
+2023-08-22 17:38:12.5576 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-22 17:38:12.5620 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2023-08-22 17:38:12.5893 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=81, FilePath=/app/NLog.config
+2023-08-22 17:38:26.6998 Info AppDomain Shutting down. Logger closing...
+2023-08-22 17:38:26.7128 Info Logger has been shut down.
+2023-08-22 17:39:24.5798 Info Message Template Auto Format enabled
+2023-08-22 17:39:24.5920 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-22 17:39:24.6336 Info Adding target FileTarget(Name=allfile)
+2023-08-22 17:39:24.6406 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-22 17:39:24.6441 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2023-08-22 17:39:24.6695 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=81, FilePath=/app/NLog.config
+2023-08-22 17:39:35.4852 Info AppDomain Shutting down. Logger closing...
+2023-08-22 17:39:35.5002 Info Logger has been shut down.
+2023-08-22 17:41:33.4534 Info Message Template Auto Format enabled
+2023-08-22 17:41:33.4638 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-22 17:41:33.5082 Info Adding target FileTarget(Name=allfile)
+2023-08-22 17:41:33.5140 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-22 17:41:33.5194 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2023-08-22 17:41:33.5525 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=81, FilePath=/app/NLog.config
+2023-08-22 17:41:44.5886 Info AppDomain Shutting down. Logger closing...
+2023-08-22 17:41:44.6099 Info Logger has been shut down.
+2023-08-22 17:42:09.9251 Info Message Template Auto Format enabled
+2023-08-22 17:42:09.9361 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-22 17:42:09.9750 Info Adding target FileTarget(Name=allfile)
+2023-08-22 17:42:09.9840 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-22 17:42:09.9877 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2023-08-22 17:42:10.0160 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=81, FilePath=/app/NLog.config
+2023-08-22 17:43:21.1194 Info AppDomain Shutting down. Logger closing...
+2023-08-22 17:43:21.1360 Info Logger has been shut down.
+2023-08-22 17:43:50.7042 Info Message Template Auto Format enabled
+2023-08-22 17:43:50.7190 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-22 17:43:50.7762 Info Adding target FileTarget(Name=allfile)
+2023-08-22 17:43:50.7820 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-22 17:43:50.7869 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2023-08-22 17:43:50.8190 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=81, FilePath=/app/NLog.config
+2023-08-22 17:44:05.8923 Info AppDomain Shutting down. Logger closing...
+2023-08-22 17:44:05.9179 Info Logger has been shut down.
+2023-08-22 17:44:21.8388 Info Message Template Auto Format enabled
+2023-08-22 17:44:21.8503 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-22 17:44:21.8907 Info Adding target FileTarget(Name=allfile)
+2023-08-22 17:44:21.8961 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-22 17:44:21.9016 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2023-08-22 17:44:21.9281 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=81, FilePath=/app/NLog.config
+2023-08-22 17:44:38.4972 Info AppDomain Shutting down. Logger closing...
+2023-08-22 17:44:38.5154 Info Logger has been shut down.
+2023-08-22 18:26:11.2242 Info Message Template Auto Format enabled
+2023-08-22 18:26:11.2428 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-22 18:26:11.3055 Info Adding target FileTarget(Name=allfile)
+2023-08-22 18:26:11.3126 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-22 18:26:11.3172 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2023-08-22 18:26:11.3482 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=81, FilePath=/app/NLog.config
+2023-08-22 18:26:39.0540 Info AppDomain Shutting down. Logger closing...
+2023-08-22 18:26:39.0691 Info Logger has been shut down.
+2023-08-22 18:32:04.2954 Info Message Template Auto Format enabled
+2023-08-22 18:32:04.3086 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-22 18:32:04.3475 Info Adding target FileTarget(Name=allfile)
+2023-08-22 18:32:04.3532 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-22 18:32:04.3603 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2023-08-22 18:32:04.3862 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=81, FilePath=/app/NLog.config
+2023-08-22 18:32:24.4182 Info AppDomain Shutting down. Logger closing...
+2023-08-22 18:32:24.4319 Info Logger has been shut down.
+2023-08-22 18:35:11.3955 Info Message Template Auto Format enabled
+2023-08-22 18:35:11.4069 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-22 18:35:11.4483 Info Adding target FileTarget(Name=allfile)
+2023-08-22 18:35:11.4547 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-22 18:35:11.4590 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2023-08-22 18:35:11.4862 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=81, FilePath=/app/NLog.config
+2023-08-22 18:35:30.1169 Info AppDomain Shutting down. Logger closing...
+2023-08-22 18:35:30.1326 Info Logger has been shut down.
+2023-08-22 18:35:58.7789 Info Message Template Auto Format enabled
+2023-08-22 18:35:58.7898 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-22 18:35:58.8327 Info Adding target FileTarget(Name=allfile)
+2023-08-22 18:35:58.8386 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-22 18:35:58.8429 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2023-08-22 18:35:58.8737 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=81, FilePath=/app/NLog.config
+2023-08-22 18:36:07.3348 Info AppDomain Shutting down. Logger closing...
+2023-08-22 18:36:07.3490 Info Logger has been shut down.
+2023-08-22 18:36:32.7630 Info Message Template Auto Format enabled
+2023-08-22 18:36:32.7733 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-22 18:36:32.8157 Info Adding target FileTarget(Name=allfile)
+2023-08-22 18:36:32.8204 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-22 18:36:32.8242 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2023-08-22 18:36:32.8526 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=81, FilePath=/app/NLog.config
+2023-08-22 18:36:42.7277 Info AppDomain Shutting down. Logger closing...
+2023-08-22 18:36:42.7501 Info Logger has been shut down.
+2023-08-22 18:38:56.0241 Info Message Template Auto Format enabled
+2023-08-22 18:38:56.0376 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-22 18:38:56.0786 Info Adding target FileTarget(Name=allfile)
+2023-08-22 18:38:56.0839 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-22 18:38:56.0869 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2023-08-22 18:38:56.1111 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=81, FilePath=/app/NLog.config
+2023-08-22 18:40:01.3831 Info AppDomain Shutting down. Logger closing...
+2023-08-22 18:40:01.3963 Info Logger has been shut down.
+2023-08-22 18:40:21.9753 Info Message Template Auto Format enabled
+2023-08-22 18:40:21.9876 Info Loading assembly: NLog.Web.AspNetCore
+2023-08-22 18:40:22.0285 Info Adding target FileTarget(Name=allfile)
+2023-08-22 18:40:22.0342 Info Adding target FileTarget(Name=ownFile-web)
+2023-08-22 18:40:22.0383 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2023-08-22 18:40:22.0786 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=81, FilePath=/app/NLog.config
+2023-08-22 19:00:35.9936 Info AppDomain Shutting down. Logger closing...
+2023-08-22 19:00:36.0128 Info Logger has been shut down.

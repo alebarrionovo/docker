@@ -1,0 +1,4 @@
+positions:
+  /var/log/dpkg.log: "3567"
+  /var/log/faillog: "0"
+  /var/log/lastlog: "0"
